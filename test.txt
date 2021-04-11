@@ -1,1 +1,2 @@
-This is test commit to demonstrate the push event and trigger azure function
+This is test commit to demonstrate the push event and trigger azure function.
+Updated.
